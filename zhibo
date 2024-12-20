@@ -1,4 +1,4 @@
-央视频道,#genre#
+📺央视频道,#genre#
 CCTV-1综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV-2财经,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 CCTV-3综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
@@ -206,10 +206,9 @@ CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122610
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-5体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
-卫视频道,#genre#
+📡卫视频道,#genre#
 山东齐鲁,http://222.134.245.16:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8
-山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东齐鲁,http://123.132.233.194:352/tsfile/live/1019_1.m3u8
 山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8
 山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
@@ -220,7 +219,6 @@ CCTV-5体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603
 山东齐鲁,http://60.210.100.54:352/tsfile/live/1001_1.m3u8
 山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
-山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东生活,http://112.234.21.109:9901/tsfile/live/1003_1.m3u8
 山东生活,http://58.57.40.22:9901/tsfile/live/1018_1.m3u8
 山东生活,http://221.2.148.205:8154/tsfile/live/1005_1.m3u8
@@ -231,7 +229,6 @@ CCTV-5体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603
 山东综艺,http://123.132.233.194:352/tsfile/live/1000_1.m3u8
 山东综艺,http://60.210.100.54:352/tsfile/live/1003_1.m3u8
 山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
-山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东综艺,http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 山东教育,http://222.142.65.165:9901/tsfile/live/1037_1.m3u8
 山东教育,http://222.142.70.7:9901/tsfile/live/1037_1.m3u8
